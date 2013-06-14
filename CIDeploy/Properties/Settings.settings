@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CIDeploy.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NugetFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\Packages</Value>
+    </Setting>
+    <Setting Name="OctopusServerUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://octopusdeploy/</Value>
+    </Setting>
+    <Setting Name="OctopusAPIKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AJAA81SDDICXM5QUIA92PZNTNS</Value>
+    </Setting>
+    <Setting Name="DefaultDeployEnviroment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Dev</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
